@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MessageDecoder", "MessageDecoder\MessageDecoder.pyproj", "{A064587A-549B-4EF7-A2E6-8373B8FABDF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A064587A-549B-4EF7-A2E6-8373B8FABDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A064587A-549B-4EF7-A2E6-8373B8FABDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C729B1C2-E393-4F6C-B39C-4BB91909C607}
+	EndGlobalSection
+EndGlobal
